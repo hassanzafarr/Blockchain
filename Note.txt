@@ -1,1 +1,0 @@
-We use immutable and constant keyword to lower the gas price of the contract
